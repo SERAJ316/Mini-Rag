@@ -1,0 +1,541 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [4 0 R 5 0 R 6 0 R 7 0 R 8 0 R 9 0 R 10 0 R 11 0 R 12 0 R 13 0 R 14 0 R 15 0 R 16 0 R 17 0 R 18 0 R 19 0 R 20 0 R 21 0 R 22 0 R 23 0 R] /Count 20 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Contents 24 0 R /Resources << /Font << /F1 3 0 R >> >> >>
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Contents 25 0 R /Resources << /Font << /F1 3 0 R >> >> >>
+endobj
+6 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Contents 26 0 R /Resources << /Font << /F1 3 0 R >> >> >>
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Contents 27 0 R /Resources << /Font << /F1 3 0 R >> >> >>
+endobj
+8 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Contents 28 0 R /Resources << /Font << /F1 3 0 R >> >> >>
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Contents 29 0 R /Resources << /Font << /F1 3 0 R >> >> >>
+endobj
+10 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Contents 30 0 R /Resources << /Font << /F1 3 0 R >> >> >>
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Contents 31 0 R /Resources << /Font << /F1 3 0 R >> >> >>
+endobj
+12 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Contents 32 0 R /Resources << /Font << /F1 3 0 R >> >> >>
+endobj
+13 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Contents 33 0 R /Resources << /Font << /F1 3 0 R >> >> >>
+endobj
+14 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Contents 34 0 R /Resources << /Font << /F1 3 0 R >> >> >>
+endobj
+15 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Contents 35 0 R /Resources << /Font << /F1 3 0 R >> >> >>
+endobj
+16 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Contents 36 0 R /Resources << /Font << /F1 3 0 R >> >> >>
+endobj
+17 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Contents 37 0 R /Resources << /Font << /F1 3 0 R >> >> >>
+endobj
+18 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Contents 38 0 R /Resources << /Font << /F1 3 0 R >> >> >>
+endobj
+19 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Contents 39 0 R /Resources << /Font << /F1 3 0 R >> >> >>
+endobj
+20 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Contents 40 0 R /Resources << /Font << /F1 3 0 R >> >> >>
+endobj
+21 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Contents 41 0 R /Resources << /Font << /F1 3 0 R >> >> >>
+endobj
+22 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Contents 42 0 R /Resources << /Font << /F1 3 0 R >> >> >>
+endobj
+23 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Contents 43 0 R /Resources << /Font << /F1 3 0 R >> >> >>
+endobj
+24 0 obj
+<< /Length 447 >>
+stream
+BT
+/F1 18 Tf
+50 720 Td
+(Introduction to RAG Systems) Tj
+/F1 12 Tf
+0 -30 Td
+(Page 1 of 20) Tj
+0 -30 Td
+(Retrieval-Augmented Generation bridges the gap between static LLMs and dynamic knowledge sources.) Tj
+0 -40 Td
+(Mini-RAG Tutorial Series - Technical Documentation and Ingestion Test Data) Tj
+0 -25 Td
+(Document ID: DOC-2026-TUTORIAL-08-P01) Tj
+0 -25 Td
+(Generated for testing FastAPI file processing, PDF parsing, and recursive chunking.) Tj
+ET
+endstream
+endobj
+25 0 obj
+<< /Length 453 >>
+stream
+BT
+/F1 18 Tf
+50 720 Td
+(Why RAG Matters in Modern AI) Tj
+/F1 12 Tf
+0 -30 Td
+(Page 2 of 20) Tj
+0 -30 Td
+(Standard LLMs suffer from knowledge cutoffs and hallucinations. RAG grounds answers in verified facts.) Tj
+0 -40 Td
+(Mini-RAG Tutorial Series - Technical Documentation and Ingestion Test Data) Tj
+0 -25 Td
+(Document ID: DOC-2026-TUTORIAL-08-P02) Tj
+0 -25 Td
+(Generated for testing FastAPI file processing, PDF parsing, and recursive chunking.) Tj
+ET
+endstream
+endobj
+26 0 obj
+<< /Length 447 >>
+stream
+BT
+/F1 18 Tf
+50 720 Td
+(Document Ingestion Pipeline) Tj
+/F1 12 Tf
+0 -30 Td
+(Page 3 of 20) Tj
+0 -30 Td
+(The ingestion pipeline handles raw file upload, validation, sanitization, and structured storage.) Tj
+0 -40 Td
+(Mini-RAG Tutorial Series - Technical Documentation and Ingestion Test Data) Tj
+0 -25 Td
+(Document ID: DOC-2026-TUTORIAL-08-P03) Tj
+0 -25 Td
+(Generated for testing FastAPI file processing, PDF parsing, and recursive chunking.) Tj
+ET
+endstream
+endobj
+27 0 obj
+<< /Length 445 >>
+stream
+BT
+/F1 18 Tf
+50 720 Td
+(Handling File Formats) Tj
+/F1 12 Tf
+0 -30 Td
+(Page 4 of 20) Tj
+0 -30 Td
+(Production RAG systems must reliably support PDFs, plain text, DOCX, Markdown, and tabular CSV files.) Tj
+0 -40 Td
+(Mini-RAG Tutorial Series - Technical Documentation and Ingestion Test Data) Tj
+0 -25 Td
+(Document ID: DOC-2026-TUTORIAL-08-P04) Tj
+0 -25 Td
+(Generated for testing FastAPI file processing, PDF parsing, and recursive chunking.) Tj
+ET
+endstream
+endobj
+28 0 obj
+<< /Length 456 >>
+stream
+BT
+/F1 18 Tf
+50 720 Td
+(FastAPI Backend Architecture) Tj
+/F1 12 Tf
+0 -30 Td
+(Page 5 of 20) Tj
+0 -30 Td
+(FastAPI provides async endpoints, automatic Swagger docs, Pydantic data validation, and high performance.) Tj
+0 -40 Td
+(Mini-RAG Tutorial Series - Technical Documentation and Ingestion Test Data) Tj
+0 -25 Td
+(Document ID: DOC-2026-TUTORIAL-08-P05) Tj
+0 -25 Td
+(Generated for testing FastAPI file processing, PDF parsing, and recursive chunking.) Tj
+ET
+endstream
+endobj
+29 0 obj
+<< /Length 445 >>
+stream
+BT
+/F1 18 Tf
+50 720 Td
+(Clean Architecture Principles) Tj
+/F1 12 Tf
+0 -30 Td
+(Page 6 of 20) Tj
+0 -30 Td
+(Separation of concerns: Controllers encapsulate business logic, while Routes handle HTTP I/O.) Tj
+0 -40 Td
+(Mini-RAG Tutorial Series - Technical Documentation and Ingestion Test Data) Tj
+0 -25 Td
+(Document ID: DOC-2026-TUTORIAL-08-P06) Tj
+0 -25 Td
+(Generated for testing FastAPI file processing, PDF parsing, and recursive chunking.) Tj
+ET
+endstream
+endobj
+30 0 obj
+<< /Length 446 >>
+stream
+BT
+/F1 18 Tf
+50 720 Td
+(File Upload Validation) Tj
+/F1 12 Tf
+0 -30 Td
+(Page 7 of 20) Tj
+0 -30 Td
+(Checking MIME types and enforce file size constraints prevents server overload and security exploits.) Tj
+0 -40 Td
+(Mini-RAG Tutorial Series - Technical Documentation and Ingestion Test Data) Tj
+0 -25 Td
+(Document ID: DOC-2026-TUTORIAL-08-P07) Tj
+0 -25 Td
+(Generated for testing FastAPI file processing, PDF parsing, and recursive chunking.) Tj
+ET
+endstream
+endobj
+31 0 obj
+<< /Length 437 >>
+stream
+BT
+/F1 18 Tf
+50 720 Td
+(Document Parsing and Extraction) Tj
+/F1 12 Tf
+0 -30 Td
+(Page 8 of 20) Tj
+0 -30 Td
+(Extracting raw textual content and metadata like page numbers and document origins.) Tj
+0 -40 Td
+(Mini-RAG Tutorial Series - Technical Documentation and Ingestion Test Data) Tj
+0 -25 Td
+(Document ID: DOC-2026-TUTORIAL-08-P08) Tj
+0 -25 Td
+(Generated for testing FastAPI file processing, PDF parsing, and recursive chunking.) Tj
+ET
+endstream
+endobj
+32 0 obj
+<< /Length 447 >>
+stream
+BT
+/F1 18 Tf
+50 720 Td
+(Text Splitting and Chunking) Tj
+/F1 12 Tf
+0 -30 Td
+(Page 9 of 20) Tj
+0 -30 Td
+(Large documents must be divided into smaller coherent segments to fit within LLM context windows.) Tj
+0 -40 Td
+(Mini-RAG Tutorial Series - Technical Documentation and Ingestion Test Data) Tj
+0 -25 Td
+(Document ID: DOC-2026-TUTORIAL-08-P09) Tj
+0 -25 Td
+(Generated for testing FastAPI file processing, PDF parsing, and recursive chunking.) Tj
+ET
+endstream
+endobj
+33 0 obj
+<< /Length 444 >>
+stream
+BT
+/F1 18 Tf
+50 720 Td
+(Recursive Text Splitting) Tj
+/F1 12 Tf
+0 -30 Td
+(Page 10 of 20) Tj
+0 -30 Td
+(Splitting by paragraph breaks, line breaks, and whitespace ensures that sentences remain intact.) Tj
+0 -40 Td
+(Mini-RAG Tutorial Series - Technical Documentation and Ingestion Test Data) Tj
+0 -25 Td
+(Document ID: DOC-2026-TUTORIAL-08-P10) Tj
+0 -25 Td
+(Generated for testing FastAPI file processing, PDF parsing, and recursive chunking.) Tj
+ET
+endstream
+endobj
+34 0 obj
+<< /Length 443 >>
+stream
+BT
+/F1 18 Tf
+50 720 Td
+(Chunk Size Considerations) Tj
+/F1 12 Tf
+0 -30 Td
+(Page 11 of 20) Tj
+0 -30 Td
+(Chunk size is a critical hyperparameter. 500 to 1000 characters is common for semantic search.) Tj
+0 -40 Td
+(Mini-RAG Tutorial Series - Technical Documentation and Ingestion Test Data) Tj
+0 -25 Td
+(Document ID: DOC-2026-TUTORIAL-08-P11) Tj
+0 -25 Td
+(Generated for testing FastAPI file processing, PDF parsing, and recursive chunking.) Tj
+ET
+endstream
+endobj
+35 0 obj
+<< /Length 439 >>
+stream
+BT
+/F1 18 Tf
+50 720 Td
+(Chunk Overlap Mechanics) Tj
+/F1 12 Tf
+0 -30 Td
+(Page 12 of 20) Tj
+0 -30 Td
+(Overlapping chunks by 10 to 20 percent preserves semantic context across segment boundaries.) Tj
+0 -40 Td
+(Mini-RAG Tutorial Series - Technical Documentation and Ingestion Test Data) Tj
+0 -25 Td
+(Document ID: DOC-2026-TUTORIAL-08-P12) Tj
+0 -25 Td
+(Generated for testing FastAPI file processing, PDF parsing, and recursive chunking.) Tj
+ET
+endstream
+endobj
+36 0 obj
+<< /Length 453 >>
+stream
+BT
+/F1 18 Tf
+50 720 Td
+(Vector Embeddings Fundamentals) Tj
+/F1 12 Tf
+0 -30 Td
+(Page 13 of 20) Tj
+0 -30 Td
+(Embeddings transform textual chunks into high-dimensional numerical vectors representing semantics.) Tj
+0 -40 Td
+(Mini-RAG Tutorial Series - Technical Documentation and Ingestion Test Data) Tj
+0 -25 Td
+(Document ID: DOC-2026-TUTORIAL-08-P13) Tj
+0 -25 Td
+(Generated for testing FastAPI file processing, PDF parsing, and recursive chunking.) Tj
+ET
+endstream
+endobj
+37 0 obj
+<< /Length 449 >>
+stream
+BT
+/F1 18 Tf
+50 720 Td
+(Vector Databases Overview) Tj
+/F1 12 Tf
+0 -30 Td
+(Page 14 of 20) Tj
+0 -30 Td
+(Databases like Qdrant, Milvus, and PGVector perform rapid approximate nearest neighbor (ANN) search.) Tj
+0 -40 Td
+(Mini-RAG Tutorial Series - Technical Documentation and Ingestion Test Data) Tj
+0 -25 Td
+(Document ID: DOC-2026-TUTORIAL-08-P14) Tj
+0 -25 Td
+(Generated for testing FastAPI file processing, PDF parsing, and recursive chunking.) Tj
+ET
+endstream
+endobj
+38 0 obj
+<< /Length 457 >>
+stream
+BT
+/F1 18 Tf
+50 720 Td
+(Indexing and Similarity Search) Tj
+/F1 12 Tf
+0 -30 Td
+(Page 15 of 20) Tj
+0 -30 Td
+(Cosine similarity and dot product calculate the distance between user queries and stored chunk vectors.) Tj
+0 -40 Td
+(Mini-RAG Tutorial Series - Technical Documentation and Ingestion Test Data) Tj
+0 -25 Td
+(Document ID: DOC-2026-TUTORIAL-08-P15) Tj
+0 -25 Td
+(Generated for testing FastAPI file processing, PDF parsing, and recursive chunking.) Tj
+ET
+endstream
+endobj
+39 0 obj
+<< /Length 429 >>
+stream
+BT
+/F1 18 Tf
+50 720 Td
+(Top-K Document Retrieval) Tj
+/F1 12 Tf
+0 -30 Td
+(Page 16 of 20) Tj
+0 -30 Td
+(Fetching the top K most relevant text chunks based on semantic similarity scores.) Tj
+0 -40 Td
+(Mini-RAG Tutorial Series - Technical Documentation and Ingestion Test Data) Tj
+0 -25 Td
+(Document ID: DOC-2026-TUTORIAL-08-P16) Tj
+0 -25 Td
+(Generated for testing FastAPI file processing, PDF parsing, and recursive chunking.) Tj
+ET
+endstream
+endobj
+40 0 obj
+<< /Length 450 >>
+stream
+BT
+/F1 18 Tf
+50 720 Td
+(Context Augmentation and Prompting) Tj
+/F1 12 Tf
+0 -30 Td
+(Page 17 of 20) Tj
+0 -30 Td
+(Constructing the augmented prompt combining user questions with retrieved context documents.) Tj
+0 -40 Td
+(Mini-RAG Tutorial Series - Technical Documentation and Ingestion Test Data) Tj
+0 -25 Td
+(Document ID: DOC-2026-TUTORIAL-08-P17) Tj
+0 -25 Td
+(Generated for testing FastAPI file processing, PDF parsing, and recursive chunking.) Tj
+ET
+endstream
+endobj
+41 0 obj
+<< /Length 436 >>
+stream
+BT
+/F1 18 Tf
+50 720 Td
+(LLM Answer Generation) Tj
+/F1 12 Tf
+0 -30 Td
+(Page 18 of 20) Tj
+0 -30 Td
+(The language model generates grounded, verifiable responses with citations to source pages.) Tj
+0 -40 Td
+(Mini-RAG Tutorial Series - Technical Documentation and Ingestion Test Data) Tj
+0 -25 Td
+(Document ID: DOC-2026-TUTORIAL-08-P18) Tj
+0 -25 Td
+(Generated for testing FastAPI file processing, PDF parsing, and recursive chunking.) Tj
+ET
+endstream
+endobj
+42 0 obj
+<< /Length 450 >>
+stream
+BT
+/F1 18 Tf
+50 720 Td
+(Evaluation and Performance Metrics) Tj
+/F1 12 Tf
+0 -30 Td
+(Page 19 of 20) Tj
+0 -30 Td
+(Measuring faithfulness, answer relevance, latency, and retrieval recall in RAG applications.) Tj
+0 -40 Td
+(Mini-RAG Tutorial Series - Technical Documentation and Ingestion Test Data) Tj
+0 -25 Td
+(Document ID: DOC-2026-TUTORIAL-08-P19) Tj
+0 -25 Td
+(Generated for testing FastAPI file processing, PDF parsing, and recursive chunking.) Tj
+ET
+endstream
+endobj
+43 0 obj
+<< /Length 451 >>
+stream
+BT
+/F1 18 Tf
+50 720 Td
+(Production Deployment and Scaling) Tj
+/F1 12 Tf
+0 -30 Td
+(Page 20 of 20) Tj
+0 -30 Td
+(Deploying containerized microservices, Celery background workers, and horizontal auto-scaling.) Tj
+0 -40 Td
+(Mini-RAG Tutorial Series - Technical Documentation and Ingestion Test Data) Tj
+0 -25 Td
+(Document ID: DOC-2026-TUTORIAL-08-P20) Tj
+0 -25 Td
+(Generated for testing FastAPI file processing, PDF parsing, and recursive chunking.) Tj
+ET
+endstream
+endobj
+xref
+0 44
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000244 00000 n 
+0000000314 00000 n 
+0000000441 00000 n 
+0000000568 00000 n 
+0000000695 00000 n 
+0000000822 00000 n 
+0000000949 00000 n 
+0000001076 00000 n 
+0000001204 00000 n 
+0000001332 00000 n 
+0000001460 00000 n 
+0000001588 00000 n 
+0000001716 00000 n 
+0000001844 00000 n 
+0000001972 00000 n 
+0000002100 00000 n 
+0000002228 00000 n 
+0000002356 00000 n 
+0000002484 00000 n 
+0000002612 00000 n 
+0000002740 00000 n 
+0000002868 00000 n 
+0000003366 00000 n 
+0000003870 00000 n 
+0000004368 00000 n 
+0000004864 00000 n 
+0000005371 00000 n 
+0000005867 00000 n 
+0000006364 00000 n 
+0000006852 00000 n 
+0000007350 00000 n 
+0000007845 00000 n 
+0000008339 00000 n 
+0000008829 00000 n 
+0000009333 00000 n 
+0000009833 00000 n 
+0000010341 00000 n 
+0000010821 00000 n 
+0000011322 00000 n 
+0000011809 00000 n 
+0000012310 00000 n 
+trailer
+<< /Size 44 /Root 1 0 R >>
+startxref
+12812
+%%EOF

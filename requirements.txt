@@ -1,4 +1,7 @@
 fastapi==0.110.0
 uvicorn[standard]==0.29.0
 python-multipart==0.0.9
+pydantic-settings==2.16.2
+aiofiles==25.1.0
+motor
 

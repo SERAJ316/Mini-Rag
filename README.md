@@ -18,6 +18,7 @@ A modular, production-ready Retrieval-Augmented Generation (RAG) backend applica
 
 - **Python:** 3.8 or higher
 - **Git**
+- **Docker** & **Docker Compose**
 
 ---
 
@@ -44,7 +45,30 @@ copy .env.example .env
 cp .env.example .env
 ```
 
-### 4. Run the Application
+### 4. Run Docker Compose Services (MongoDB)
+
+Navigate to the `docker` directory, copy the example environment file, and set your MongoDB credentials:
+
+```bash
+cd docker
+
+# On Windows:
+copy .env.example .env
+
+# On Linux/macOS:
+cp .env.example .env
+```
+
+Update `docker/.env` with your chosen `MONGO_INITDB_ROOT_USERNAME` and `MONGO_INITDB_ROOT_PASSWORD`, then start MongoDB in the background:
+
+```bash
+docker compose up -d
+```
+
+> Make sure `MONGODB_URL` in the root `.env` matches your credentials, e.g.:
+> `MONGODB_URL="mongodb://<username>:<password>@localhost:27017"`
+
+### 5. Run the Application
 ```bash
 uvicorn main:app --reload
 ```

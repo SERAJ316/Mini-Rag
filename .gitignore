@@ -54,3 +54,4 @@ $RECYCLE.BIN/
 *.log
 *.sqlite3
 transcript*.json
+video*_summary.txt
